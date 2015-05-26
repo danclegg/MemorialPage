@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Tinos', serif;
+}
+
+div {
+    font-family: 'Tinos', serif;
+}
+
 body {
 font-family: 'Tinos', serif;
 }
